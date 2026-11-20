@@ -1,0 +1,31 @@
+{
+  "name": "local-seo-by-ryze-ai",
+  "displayName": "Local SEO by Ryze AI",
+  "version": "1.0.0",
+  "description": "Manage your Google Business Profile (reviews, posts, hours, performance), research Google Maps rankings and local competitors, and read Google Analytics and Google Ads from the same Cursor chat.",
+  "author": {
+    "name": "Ryze AI",
+    "email": "hello@get-ryze.ai",
+    "url": "https://www.get-ryze.ai"
+  },
+  "homepage": "https://www.get-ryze.ai",
+  "repository": "https://github.com/Ryze-AI-Adgent/local-seo-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "local-seo",
+    "google-business-profile",
+    "google-maps",
+    "reviews",
+    "local-pack",
+    "dataforseo",
+    "google-ads",
+    "google-analytics",
+    "mcp",
+    "gbp",
+    "local-search",
+    "seo",
+    "mcp-server"
+  ],
+  "logo": "logo.png",
+  "mcpServers": "./mcp.json"
+}
